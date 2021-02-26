@@ -1,0 +1,13 @@
+h1{
+    /* 文字色　color */
+    color: red;
+
+    /* 文字のサイズ font-saze */
+    font-size: 50px;
+
+    /* 枠組み */
+    border: 2px black solid;
+     /* borderはwidthとcolorとstyleが入ってる */
+
+    
+}

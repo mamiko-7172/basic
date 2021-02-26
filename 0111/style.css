@@ -1,0 +1,33 @@
+/*  *=ページ全部を対象にする場合 */
+
+*{
+    color: gray;
+}
+
+h1{
+    border-bottom: 1px black  solid;
+    font-size: 50px;
+}
+
+/* idの場合は＃ */
+#title{
+    font-size: 100px;
+    color: blue;
+}
+
+/* classの場合は. */
+.item{
+    color: red;
+}
+
+.ul_items{
+    border: black solid 1px;
+    /* margin=外側余白 */
+    margin: 100px 50px 60px 50px;
+    /* padding=内側の余白  */
+    padding: 100px; 
+}
+
+.item2{
+    color: darkblue;
+}
